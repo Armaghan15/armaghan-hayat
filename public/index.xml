@@ -6,9 +6,77 @@
     <description>Recent content on Armaghan.HO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2020 08:44:07 +0300</lastBuildDate>
     
 	<atom:link href="https://armaghan-hayat.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://armaghan-hayat.netlify.app/contact/</link>
+      <pubDate>Sat, 03 Oct 2020 08:49:36 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/contact/</guid>
+      <description>Email me on Gmail at: armaghan.hayat15@gmail.com
+Email me on Outlook at: armaghanhayat@outlook.com
+Dm me on Instagram at: https://www.instagram.com/codewitharmaghan/</description>
+    </item>
+    
+    <item>
+      <title>Customer Managment System</title>
+      <link>https://armaghan-hayat.netlify.app/projects/cms/</link>
+      <pubDate>Sat, 03 Oct 2020 08:44:07 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/projects/cms/</guid>
+      <description>A web-app which can help you to manage customers, products, and orders. With additional functionality like user registration and login, your customers can register and view or track their orders. There is an admin dashboard which will help the admin to create, retrieve, update, and delete the customers, products, and orders data. (Created with Html, CSS, Django, SQLite, and bootstrap)</description>
+    </item>
+    
+    <item>
+      <title>Dentist Clinic Website</title>
+      <link>https://armaghan-hayat.netlify.app/projects/dentist/</link>
+      <pubDate>Sat, 03 Oct 2020 08:44:07 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/projects/dentist/</guid>
+      <description>A website that displays information about the clinic and the doctors. With functionality like sending emails and online booking, a customer can email the clinic or book an appointment from the given schedule, which will be saved in the data base with the customer name, date etc. (Created with Html, CSS, Django, SQLite, and bootstrap)</description>
+    </item>
+    
+    <item>
+      <title>E-commerce Site</title>
+      <link>https://armaghan-hayat.netlify.app/projects/ecommerce/</link>
+      <pubDate>Sat, 03 Oct 2020 08:44:07 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/projects/ecommerce/</guid>
+      <description>A website that displays products from a database. A user can add products to their cart and then checkout with PayPal, credit card or a debit card. (Created with Html, CSS, JavaScript, Django, SQLite, bootstrap, and the PayPal API)</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://armaghan-hayat.netlify.app/about/</link>
+      <pubDate>Sat, 03 Oct 2020 08:17:09 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/about/</guid>
+      <description>I am a full-stack web developer, always looking forward to learn new things, either a new skill / technology or something that can change my thoughts or make me think about my opinions and change them if needed.
+I develope and code! Which means I do use some tools, here are the names of the tools.
+Front-End: Html, CSS, JavaScript, JavaScript Es6, jQuery, Reactjs (still learning), Bootstrap Back-end: Python, Flask, Django, Nodejs, Expressjs, SQL Data Bases: PostgreSQL, MySQL, SQLite, MongoDB Version Control and Operating Systems: Git, GitHub, Git Bash, Windows and Linux IDEs/ Text Editors: Visual Studio Code, PyCharm, Atom Text Editor, Sublime Text Editor  </description>
+    </item>
+    
+    <item>
+      <title>Basic Information about Django</title>
+      <link>https://armaghan-hayat.netlify.app/blog/django/</link>
+      <pubDate>Sat, 03 Oct 2020 08:16:54 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/blog/django/</guid>
+      <description>Django is a back-end web framework created in the Python programming language. By back-end what I really mean is, it&amp;rsquo;s a framework which can not be used to design a web-app, instead it is used to write all the logic behind a web-app, connect your web-app with a database, process the data from the database and use it in a way, which helps users to do some tasks your web-app offers.</description>
+    </item>
+    
+    <item>
+      <title>Life with Errors and bugs</title>
+      <link>https://armaghan-hayat.netlify.app/blog/errors_and_bugs/</link>
+      <pubDate>Sat, 03 Oct 2020 08:16:54 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/blog/errors_and_bugs/</guid>
+      <description>OK! Error and bugs. So, bugs are basically errors, like some frustrating errors. There is not even a single developer who wants a buggy code or wants to face errors while working on a project. Sometimes I myself feel that I am more weak than a spider. I mean common, it&amp;rsquo;s a feast for spiders when they see bugs but developers, huh, we cry! The biggest mistake most people make while solving problems is not understanding the problem.</description>
+    </item>
     
   </channel>
 </rss>

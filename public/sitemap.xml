@@ -3,7 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://armaghan-hayat.netlify.app/contact/</loc>
+    <lastmod>2020-10-03T08:49:36+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://armaghan-hayat.netlify.app/</loc>
+    <lastmod>2020-10-03T08:44:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/projects/cms/</loc>
+    <lastmod>2020-10-03T08:44:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/projects/dentist/</loc>
+    <lastmod>2020-10-03T08:44:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/projects/ecommerce/</loc>
+    <lastmod>2020-10-03T08:44:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/projects/</loc>
+    <lastmod>2020-10-03T08:44:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/about/</loc>
+    <lastmod>2020-10-03T08:17:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/blog/django/</loc>
+    <lastmod>2020-10-03T08:16:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/blog/</loc>
+    <lastmod>2020-10-03T08:16:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armaghan-hayat.netlify.app/blog/errors_and_bugs/</loc>
+    <lastmod>2020-10-03T08:16:54+03:00</lastmod>
   </url>
   
   <url>

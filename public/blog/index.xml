@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Armaghan.HO</title>
+    <link>https://armaghan-hayat.netlify.app/blog/</link>
+    <description>Recent content in Blogs on Armaghan.HO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2020 08:16:54 +0300</lastBuildDate>
+    
+	<atom:link href="https://armaghan-hayat.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic Information about Django</title>
+      <link>https://armaghan-hayat.netlify.app/blog/django/</link>
+      <pubDate>Sat, 03 Oct 2020 08:16:54 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/blog/django/</guid>
+      <description>Django is a back-end web framework created in the Python programming language. By back-end what I really mean is, it&amp;rsquo;s a framework which can not be used to design a web-app, instead it is used to write all the logic behind a web-app, connect your web-app with a database, process the data from the database and use it in a way, which helps users to do some tasks your web-app offers.</description>
+    </item>
+    
+    <item>
+      <title>Life with Errors and bugs</title>
+      <link>https://armaghan-hayat.netlify.app/blog/errors_and_bugs/</link>
+      <pubDate>Sat, 03 Oct 2020 08:16:54 +0300</pubDate>
+      
+      <guid>https://armaghan-hayat.netlify.app/blog/errors_and_bugs/</guid>
+      <description>OK! Error and bugs. So, bugs are basically errors, like some frustrating errors. There is not even a single developer who wants a buggy code or wants to face errors while working on a project. Sometimes I myself feel that I am more weak than a spider. I mean common, it&amp;rsquo;s a feast for spiders when they see bugs but developers, huh, we cry! The biggest mistake most people make while solving problems is not understanding the problem.</description>
+    </item>
+    
+  </channel>
+</rss>
