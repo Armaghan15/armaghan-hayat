@@ -1,4 +1,14 @@
 ---
 label: Testing Forestry
 hide_body: false
-fields: []
+fields:
+- name: testing_forestry
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Testing Forestry
+  description: This post is created from forestry as a test post.
