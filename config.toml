@@ -125,4 +125,9 @@ pygmentscodefencesguesssyntax = true
             name = "Contact me"
             weight = 5
             url = "contact/"
+            
+            [[languages.en.menu.main]]
+            name = "Book a meeting"
+            weight = 6
+            url = "https://calendly.com/armaghanorakzai"
 
