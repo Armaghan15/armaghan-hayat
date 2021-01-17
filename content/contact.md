@@ -8,6 +8,6 @@ Email me on Gmail at armaghan.hayat15@gmail.com
 
 Email me on Outlook at armaghanhayat@outlook.com
 
-Dm me on Instagram at https://www.instagram.com/codewitharmaghan/
+Dm me on Instagram at https://www.instagram.com/amarmaghan/
 
 Book a meeting: [https://calendly.com/armaghanorakzai](https://calendly.com/armaghanorakzai "https://calendly.com/armaghanorakzai")
