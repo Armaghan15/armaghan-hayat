@@ -6,4 +6,4 @@ draft: true
 
 A Dummy website for an imaginary finance company.
 
-[Visit the Website:](https://armaghan-loruki.netlify.app/ "Loruki")
+[Visit the Website](https://armaghan-loruki.netlify.app/ "Loruki")
