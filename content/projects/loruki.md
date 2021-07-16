@@ -1,6 +1,6 @@
 ---
-title: "Customer Managment System"
-date: 2020-10-03T08:44:07+03:00
+title: "Loruki Landing Page"
+date: 2020-12-03T08:44:07+03:00
 draft: true
 ---
 
