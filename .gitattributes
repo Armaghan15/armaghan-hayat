@@ -1,2 +1,2 @@
-*.html linguist-detectable=Hugo
-*.css linguist-detectable=false
+*.html linguist-language=Hugo
+*.css linguist-language=false
